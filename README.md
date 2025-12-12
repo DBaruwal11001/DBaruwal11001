@@ -1,4 +1,4 @@
-# Hi, I'm DBaruwal11001 👋
+# Hi, I'm Diamond Baruwal 👋
 
 Welcome to my GitHub profile!  
 I'm a passionate student specializing in **web development** and always eager to learn new technologies.
